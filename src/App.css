@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-item {
+  text-align: left;
+  padding: 0 20px;
+}
+
+.App-filtros {
+  margin: 20px 0;
+}
